@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Options;
-using Models;
+using Models.Entidades;
 using Repository;
 using Tools;
 
@@ -130,8 +130,8 @@ namespace LunaServicios.Controllers
                 {
                     cliente.Nombre = clientePost.Nombre;
                     cliente.Rut = clientePost.Rut;
-                    cliente.Direccion = cliente.Direccion;
-                    cliente.Telefono = cliente.Telefono;
+                    cliente.Direccion = clientePost.Direccion;
+                    cliente.Telefono = clientePost.Telefono;
                     _unitOfWork.Cliente.Update(cliente);
                     _unitOfWork.Save();
 

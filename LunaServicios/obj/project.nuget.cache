@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T50uiYMTEcvJ75l/z/3fSsXSvzJRuROdiA1xsGd14bod1CkRZNAOBEYiMZvM1sPj3/TqE54SpSE8iFpWczx9eA==",
+  "dgSpecHash": "pnqZ/hSDbfLZxpQNAf6y1aGn+7hxVjD72k8pqof3Ux82R0V3+moMZkLU+T4g0tYbeCYtY3gva2irDFoNk5RQ3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\esteb\\source\\repos\\LunaServicios\\LunaServicios\\LunaServicios.csproj",
+  "projectFilePath": "C:\\Users\\esteb\\Desktop\\RepositoriosGit\\LunaServicios\\LunaServicios\\LunaServicios.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\esteb\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.0\\microsoft.data.sqlite.core.6.0.0.nupkg.sha512",
     "C:\\Users\\esteb\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.0\\microsoft.entityframeworkcore.6.0.0.nupkg.sha512",
